@@ -8,4 +8,4 @@ Sign up for a new AWS IoT account by logging in with your existing Amazon accoun
 
 Click to start the interactive tutorial after you log in.
 
-![](https://github.com/intel-iot-devkit/intel-iot-gateway/blob/master/Getting%20Started%20With%20Node-Red%20and%20AWS%20IoT/images/image1.png?raw=true)
+![](https://console.aws.amazon.com/iot/)
