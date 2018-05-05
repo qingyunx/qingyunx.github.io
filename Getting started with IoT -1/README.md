@@ -6,6 +6,6 @@ Getting started with IoT - 1
 ## Setting up AWS IoT ##
 Sign up for a new AWS IoT account by logging in with your existing Amazon account or creating a new one by visiting [https://aws.amazon.com/iot/]( https://aws.amazon.com/iot/)
 
-Click **Manage Things** to start after you log in.
+Click on **Manage Things** to start after you log in.
 
 [](https://console.aws.amazon.com/iot/)
